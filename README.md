@@ -1,2 +1,2 @@
-# wargame
+# boardgame
 made by deepseek
