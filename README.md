@@ -1,2 +1,2 @@
-# ai
+# wargame
 made by deepseek
